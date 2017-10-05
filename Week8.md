@@ -3,6 +3,8 @@
 # Banking Union (Week 8)
 *Reading in textbook - Chapter 14: "Banking in the EU" pp 461-474.*
 
+$$Equation = 1^{2} \times \beta_{t}$$
+
 **Group 11: Question:** Will the resolution funds be large enough?
 
 **Main Questions**
